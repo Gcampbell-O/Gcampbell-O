@@ -1,6 +1,6 @@
 ## Hi, I'm Gbolahan 👋
 
-**Azure Cloud Administrator** · [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/api/credentials/share/en-gb/GbolahanCampbell-3034/2B98767CC77853E5?sharingId=F63B449FC34B1196) · SC-900 · AZ-900
+**Azure Cloud Administrator** · [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/api/credentials/share/en-gb/GbolahanCampbell-3034/2B98767CC77853E5?sharingId=F63B449FC34B1196) · SC-900 · Currently studying for SC-500
 
 I build, secure and troubleshoot Azure environments, and I document every one end to end: what I built, what broke, and how I fixed it.
 
