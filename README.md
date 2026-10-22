@@ -10,4 +10,4 @@ I build, secure and troubleshoot Azure environments, and I document every one en
 - 🌐 **Networking & operations:** VNets, NSGs, private endpoints, load balancers, Log Analytics/KQL, Azure Backup
 - 🎯 **Next:** SC-500
 
-📂 **Portfolio:** [cloud-portfolio](https://github.com/Gcampbell-O/cloud-portfolio)
+📂 **Portfolio:** [cloud-portfolio](https://github.com/Gcampbell-O/cloud-portfolio) · 💼 [LinkedIn](https://www.linkedin.com/in/gbolahan-campbell-88399642b/)
